@@ -1,0 +1,15 @@
+import personOne, personTwo, personThree, personFour, personFive, personSix, personSeven, personEight, personNine, personTen, personEleven, personTwelve, personThirteen
+
+print(personOne.myName())
+print(personTwo.myName())
+print(personThree.myName())
+print(personFour.myName())
+print(personFive.myName())
+print(personSix.myName())
+print(personSeven.myName())
+print(personEight.myName())
+print(personNine.myName())
+print(personTen.myName())
+print(personEleven.myName())
+print(personTwelve.myName())
+print(personThirteen.myName())
