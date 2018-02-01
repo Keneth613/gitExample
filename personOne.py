@@ -1,5 +1,5 @@
 def myName():
-    return "Mr. Radaszkiewicz"
+    return "Mr. Rad"
 def myFavoriteNumber():
     return "I don't know"
 def newMethod():
