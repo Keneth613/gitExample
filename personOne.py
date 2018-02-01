@@ -1,4 +1,6 @@
 def myName():
-    return "Mr. Rad"
+    return "Mr. Radaszkiewicz"
 def myFavoriteNumber():
     return "I don't know"
+def newMethod():
+    print("FUCK YOU")
