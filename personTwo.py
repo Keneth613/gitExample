@@ -1,4 +1,4 @@
 def myName():
-    return "Person 2"
+    return "Keneth"
 def myFavoriteNumber():
-    return "I don't know"
+    return "613"
